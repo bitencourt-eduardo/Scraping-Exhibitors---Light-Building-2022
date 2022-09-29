@@ -1,4 +1,4 @@
-# Scraping-Exhibitors-Light-Building-2022
+# Scraping Exhibitors Information - Light+ Building 2022
 Scraping Exhibitors info for light building 2022
 
 This is an open scrap to pull information from exhibitors in light + building fair 2022.
